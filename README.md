@@ -1,2 +1,1 @@
-#rcc bitch magnet service
-the best thing ever
+RCC Clout Calculation Service
