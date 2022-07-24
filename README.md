@@ -1,5 +1,5 @@
 # RCCService
-radical clout calculator service - for cool kids only 😎😎😎😎🤟🤟🤟🤟<br><br>
+radical clout calculator service - for cool kids only 😎😎😎😎🤟🤟🤟🤟 modified by lualots for epic funny ass shit for t-shirts<br><br>
 # What is RCCService?
 its a service to add to [roblox](https://roblox.com) that let you render ur **character** and calculate your epic clout on the internet!!!<br>
 idk what to say but ummmmmmmmmmmm yeah.<br><br>
